@@ -7,7 +7,7 @@ Push/Pull example using ZeroMQ in NodeJS.
 
 Clone this repository:
 ```
-$ git clone https://github.com/nikAizuddin/zeromq-nodejs.git
+$ git clone --recursive https://github.com/nikAizuddin/zeromq-nodejs.git
 ```
 
 
